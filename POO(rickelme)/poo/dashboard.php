@@ -29,18 +29,14 @@
             <div class="card bg-dark text-white" style="border: transparent">
                 <div class="mt-3 mb-2 value fontegrande pointerCursor "
                      onclick="carregaMenu('listar1')">
-                    <span class="text-success">1 -</span> O QUE É?
-                </div>
-                <div class="mt-3 mb-2 value fontegrande pointerCursor " onclick="carregaMenu('listar2')">
-                    <span class="text-success">2 -</span> VANTAGENS E DESVANTAGENS
+                    <span class="text-success">1 -</span> DEFINIÇÃO E EXEMPLOS
                 </div>
                 <div class="mt-3 mb-2 value fontegrande pointerCursor "
                      onclick="carregaMenu('listar3')">
-                    <span class="text-success">3 -</span> DIFERENÇA DE POO E PROGRAMAÇÃO ESTRUTURADA
+                    <span class="text-success">2 -</span> DIFERENÇA DE POO E PROGRAMAÇÃO ESTRUTURADA
                 </div>
-                <div class="mt-3 mb-2 value fontegrande pointerCursor "
-                     onclick="carregaMenu('listar4')">
-                    <span class="text-success">4 -</span> CITE UM EXEMPLO DE CADA CONCEITO
+                <div class="mt-3 mb-2 value fontegrande pointerCursor " onclick="carregaMenu('listar2')">
+                    <span class="text-success">3 -</span> VANTAGENS E DESVANTAGENS DE POO E PROGRAMAÇÃO ESTRUTURADA
                 </div>
             </div>
         </div>
